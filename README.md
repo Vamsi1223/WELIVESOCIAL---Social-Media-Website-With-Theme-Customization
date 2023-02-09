@@ -1,5 +1,5 @@
 # WELIVESOCIAL---SOCIAL-MEDIA-WEBSITE-WITH-THEME-CUSTOMIZATION
-we're going to Create A Responsive Social Media Website With Theme Customization Using HTML CSS &amp; JavaScript.   A responsive website means the website’s design responds to different screen sizes across a variety of devices.
+We're going to Create A Responsive Social Media Website With Theme Customization Using HTML CSS &amp; JavaScript.   A responsive website means the website’s design responds to different screen sizes across a variety of devices.
 Responsive design is the “big thing” in web design right now. But if you are not a designer, you may be wondering what this term means. You might also be unsure as to whether or not a business's website should be implementing responsive design, especially if you do not understand the concept.
 
 What a website looks like on a desktop computer won’t be the same for a mobile device. It is also referred to as a mobile-friendly website. Depending on the width and orientation of your device’s screen, a responsive website will flow and respond accordingly.
