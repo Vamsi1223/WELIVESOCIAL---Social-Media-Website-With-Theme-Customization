@@ -7,3 +7,10 @@ What a website looks like on a desktop computer won’t be the same for a mobile
 Decreased loading times:Smaller images optimized for mobile devices means your site will load faster on mobile devices.
 
 Responsive design can help you solve a lot of problems for your website. It will make your site mobile-friendly, improve the way it looks on devices with both large and small screens, and increase the amount of time that visitors spend on your site. It can also help you improve your rankings in search engines.
+
+
+
+# Project Mentees
+1. Vamsi Krishna Mandem 
+2. Parsapu Kamal Raj
+3. Geetha Sridhar Matta
